@@ -9,7 +9,7 @@ from textblob import TextBlob
 # here I downloaded a kaggle tweet data, for this assignment
 # and I will load it into a dataframe
 
-df = pd.read_csv("train_E6oV3lV.csv")
+df = pd.read_csv("First_input.csv")
 
 #This df has three columns but only tweet is required, I take 1000 rows.
 
@@ -73,7 +73,7 @@ df_new = count_offensive (df_new, list_words)
 
 
 #Saving it into csv
-df_new.to_csv("output_offensive.csv")
+df_new.to_csv("first_output.csv")
 
 
 #Since not many sentences have any offensive words, I print to check for the ones that have
