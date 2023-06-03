@@ -1,13 +1,13 @@
 # Affinity_assignment
 
 
-First Question -
+##First Question -
 To indicate degree of twitter tweets
 
-Requirements: 
--Python 
--Pandas
--textblob
+####Requirements: 
+1)Python 
+2)Pandas
+3)textblob
 The above packages needs to be installed to run the file.
 
 All the code is in "First.py" file (Comments are included at each step for easy readability.)
@@ -28,10 +28,10 @@ Here is a screenshot of a part of output.
 Finally output is save in a csv named "first_output.csv"
 
 
-Second Question - 
+##Second Question - 
 I have uploaded a txt file answering this question.
 
-Thrid Question -
+##Thrid Question -
 For this question I wrote a bash script in file "third.sh"
 
 Here I fetch response from api using curl. Then I remove lines that do not end with number using grep.
