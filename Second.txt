@@ -1,0 +1,18 @@
+I recently discovered the TUH (Temple University Hospital) database. It is a comprehensive collection of physiological signals that has been widely used for research
+purposes in the fields of biomedical signalprocessing, machine learning, and healthcare analytics. It consists of recordings from various sources, including 
+electrocardiography (ECG), electroencephalography(EEG), blood pressure, oxygen saturation, and respiration. These signals are typically captured using medical 
+devices and monitoring systems during the hospital stays of patients.
+
+I have worked on electroencephalography(EEG) signal dataset of the TUH, for building a biometric system machine learning model by preprocessing the data,
+labeling the subjects/patients, and predicting the various statistical measurment of the classification.
+
+The TUH database serves as a valuable resource for developing and validating algorithms and models related to physiological monitoring, anomaly detection, and 
+predictive modeling in healthcare. It enables researchers to explore and analyze patterns in physiological data, detect abnormalities in vital signs, and predict 
+clinical events.
+
+Access to the TUH database is typically granted through a formal request process, It was provided to me by proffesor A.R.Jack Fredo during the period
+of my internship.
+
+It is one of my favourite data set as the database can be used in various research studies and applications, including clinical decision support systems, 
+automated diagnosis, patient monitoring, and the development of machine learning algorithms for healthcare applications. It has facilitated advancements 
+in understanding and managing different medical conditions by providing a rich source of real-world physiological data.
