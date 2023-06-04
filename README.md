@@ -34,7 +34,7 @@ Here is a screenshot of a part of output.
 I have also attached the jupyter notebook `First_jupyter.ipynb` file which I used at start for reference.
 
 ## Second Question - 2. Which is an interesting data set you discovered recently? Why is it your favorite? No datasets on Kaggle, please.
-I have uploaded a second.txt file answering this question.
+I have uploaded a `second.txt` file answering this question.
 
 ## Thrid Question -
 For this question I wrote a bash script in file `third.sh`
